@@ -2,11 +2,11 @@
 
 I’m a bilingual (EN / PT-BR) technical writer with a Bachelor’s degree in **Computer Science** and over **11 years of experience** across **IT**, **technical support**, **content creation**, and **AI training**.
 
-My background in **technical support** and **customer support** roles helps me understand **end-users workflow** and their pains. Meanwhile, my technical background and education allow me to **troubleshoot** complex issues and solve them.
+My background in **technical support** and **customer support** roles helps me understand **end-users workflow** and their pain points. Meanwhile, my technical background and education allow me to **troubleshoot** complex issues and solve them.
 
-Adding all of my **technical and customer background** to my years of **content, fiction, and technical writing** experience, allows me to craft **user guides, technical references, troubleshooting documentation, and industry research** for both **end-users** or **developers** alike.
+By combining my **technical and customer background** with my years of **content, fiction, and technical writing** experience, I can craft **user guides, technical references, troubleshooting documentation, and industry research** for both **end-users** or **developers** alike.
 
-And my bilingual fluency in **English** and **Brazilian Portuguese** lets me adapt and localize technical content for different audiences with varying levels of expertise.
+Additionally, my bilingual fluency in **English** and **Brazilian Portuguese** lets me adapt and localize technical content for different audiences with varying levels of expertise.
 
 ---
 
